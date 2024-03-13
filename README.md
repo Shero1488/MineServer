@@ -19,7 +19,7 @@ Third of step is install OpenJDK:
 
 Third of step is clone repository:
 ```C++
- sudo git clone https://github.com/Shero1488/MineServer
+ git clone https://github.com/Shero1488/MineServer
  cd MineServer
 ```
 
