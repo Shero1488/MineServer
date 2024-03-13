@@ -6,6 +6,7 @@ If you don't have a root permission on ur system:
  sudo -i
 ```
 
+## Installation
 First of step is update ubuntu dependencies:
 ```C++
  apt update && apt upgrade
